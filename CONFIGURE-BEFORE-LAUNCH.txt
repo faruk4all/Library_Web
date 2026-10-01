@@ -1,0 +1,19 @@
+ECITIZEN DIGITAL — FINAL LAUNCH CHECKLIST
+
+Already configured:
+- WhatsApp: +8801671191073
+- Email: ecitizendigital@gmail.com
+- Facebook: https://www.facebook.com/ecitizendigit
+- Responsive premium HTML/CSS/JS website
+- Brand fonts and official logo assets
+- WhatsApp click tracking hooks
+- Conditional Meta Pixel / GA4 / GTM loader
+
+Still required before production:
+1. Purchase and confirm the final domain.
+2. Replace placeholder canonical/sitemap URLs in index.html, sitemap.xml and robots.txt.
+3. Add Meta Pixel ID, GTM ID and/or GA4 ID to script.js.
+4. Connect Google Search Console and submit sitemap.
+5. Verify WhatsApp business account and final contact details.
+6. Run final mobile/browser QA after deployment.
+7. Add only verified portfolio/case-study results.
